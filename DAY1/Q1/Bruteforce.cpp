@@ -19,7 +19,7 @@ public:
                       for(int k=0;k<n;k++){
                         if(matrix[i][k]!=0)
                         {
-                           matrix[i][k]=-2; 
+                           matrix[i][k]=-1; 
                         }
                     }
                 }
